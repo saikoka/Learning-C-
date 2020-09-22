@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3n/qH7ebD6OAC0O3KEKN1/6XewTHMoqP8iDCPMbo6xC32hQbLNdkoXbAnm9ly2+1rppR+8IK+Ogal3pYJiNKpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\saiko\\Documents\\Projects\\C#\\GuessingGame\\GuessingGame.BLL\\GuessingGame.BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saiko\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\saiko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

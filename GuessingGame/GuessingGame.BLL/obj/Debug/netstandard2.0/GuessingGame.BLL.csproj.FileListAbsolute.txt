@@ -1,0 +1,9 @@
+C:\Users\saiko\Documents\Projects\C#\GuessingGame\GuessingGame.BLL\bin\Debug\netstandard2.0\GuessingGame.BLL.deps.json
+C:\Users\saiko\Documents\Projects\C#\GuessingGame\GuessingGame.BLL\bin\Debug\netstandard2.0\GuessingGame.BLL.dll
+C:\Users\saiko\Documents\Projects\C#\GuessingGame\GuessingGame.BLL\bin\Debug\netstandard2.0\GuessingGame.BLL.pdb
+C:\Users\saiko\Documents\Projects\C#\GuessingGame\GuessingGame.BLL\obj\Debug\netstandard2.0\GuessingGame.BLL.csprojAssemblyReference.cache
+C:\Users\saiko\Documents\Projects\C#\GuessingGame\GuessingGame.BLL\obj\Debug\netstandard2.0\GuessingGame.BLL.AssemblyInfoInputs.cache
+C:\Users\saiko\Documents\Projects\C#\GuessingGame\GuessingGame.BLL\obj\Debug\netstandard2.0\GuessingGame.BLL.AssemblyInfo.cs
+C:\Users\saiko\Documents\Projects\C#\GuessingGame\GuessingGame.BLL\obj\Debug\netstandard2.0\GuessingGame.BLL.csproj.CoreCompileInputs.cache
+C:\Users\saiko\Documents\Projects\C#\GuessingGame\GuessingGame.BLL\obj\Debug\netstandard2.0\GuessingGame.BLL.dll
+C:\Users\saiko\Documents\Projects\C#\GuessingGame\GuessingGame.BLL\obj\Debug\netstandard2.0\GuessingGame.BLL.pdb
